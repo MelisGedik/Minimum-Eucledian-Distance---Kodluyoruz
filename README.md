@@ -1,1 +1,0 @@
-# Minimum-Eucledian-Distance---Kodluyoruz
